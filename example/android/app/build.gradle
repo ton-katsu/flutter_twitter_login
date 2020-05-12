@@ -24,7 +24,7 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.roughike.fluttertwitterlogin.fluttertwitterloginexample"
-        minSdkVersion 21
+        minSdkVersion 16
         targetSdkVersion 28
         multiDexEnabled true
         versionCode 1
