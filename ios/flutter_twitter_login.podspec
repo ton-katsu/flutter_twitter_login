@@ -3,8 +3,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.ios.deployment_target  = '10.0'
-  s.platform = :ios, '10.0'
+  s.platform = :ios, '9.0'
 
   s.name             = 'flutter_twitter_login'
   s.version          = '0.0.1'
