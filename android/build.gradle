@@ -35,5 +35,5 @@ android {
 }
 
 dependencies {
-    api 'com.twitter.sdk.android:twitter-core:3.1.1'
+    api 'com.twitter.sdk.android:twitter-core:3.3.0'
 }
